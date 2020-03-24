@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPT", "TPT.csproj", "{64A41AD7-926D-46FC-9B4A-4EE0FE6BC0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z5-TSES", "..\Z5-TSES\Z5-TSES.csproj", "{5AC7C91D-7FAB-4569-93EB-745768BA7EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A41AD7-926D-46FC-9B4A-4EE0FE6BC0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A41AD7-926D-46FC-9B4A-4EE0FE6BC0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A41AD7-926D-46FC-9B4A-4EE0FE6BC0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A41AD7-926D-46FC-9B4A-4EE0FE6BC0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC7C91D-7FAB-4569-93EB-745768BA7EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC7C91D-7FAB-4569-93EB-745768BA7EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC7C91D-7FAB-4569-93EB-745768BA7EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC7C91D-7FAB-4569-93EB-745768BA7EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E127B5D8-75BB-4A4B-A3F0-2263C47F1ED7}
+	EndGlobalSection
+EndGlobal
